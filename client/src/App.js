@@ -71,7 +71,6 @@ function App() {
       {/* <p>Selected Subject: {selectedSubject}</p>
       <p>Selected Class: {selectedClass}</p>
       <p>Selected Chapter: {selectedChapter}</p> */}
-      <QuestionPaper />
     </div>
   );
 }
