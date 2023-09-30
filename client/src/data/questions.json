@@ -1,0 +1,528 @@
+{
+    "subjects": [
+        {
+            "name": "English",
+            "classes": [
+                {
+                    "class": 1,
+                    "chapters": [
+                        {
+                            "chapter": 1,
+                            "categories": [
+                                {
+                                    "categoryName": "Fill in the Blanks",
+                                    "questions": [
+                                        {
+                                            "question": "The capital of France is ________.",
+                                            "correctAnswer": "Paris"
+                                        },
+                                        {
+                                            "question": "The sun rises in the ________.",
+                                            "correctAnswer": "east"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "categoryName": "Answer the Following",
+                                    "questions": [
+                                        {
+                                            "question": "What is a noun?",
+                                            "correctAnswer": "A noun is a naming word."
+                                        },
+                                        {
+                                            "question": "What is a verb?",
+                                            "correctAnswer": "A verb is a doing word."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "categoryName": "Multiple Choice",
+                                    "questions": [
+                                        {
+                                            "question": "Which planet is known as the 'Red Planet'?",
+                                            "options": [
+                                                "Mars",
+                                                "Venus",
+                                                "Jupiter",
+                                                "Saturn"
+                                            ],
+                                            "correctAnswer": "Mars"
+                                        },
+                                        {
+                                            "question": "Which word means the opposite of 'day'?",
+                                            "options": [
+                                                "sun",
+                                                "moon",
+                                                "light",
+                                                "night"
+                                            ],
+                                            "correctAnswer": "night"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "chapter": 2,
+                            "categories": [
+                                {
+                                    "categoryName": "Fill in the Blanks",
+                                    "questions": [
+                                        {
+                                            "question": "The largest mammal in the world is the _________.",
+                                            "correctAnswer": "blue whale"
+                                        },
+                                        {
+                                            "question": "The process of plants making their own food is called _________.",
+                                            "correctAnswer": "photosynthesis"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "categoryName": "Answer the Following",
+                                    "questions": [
+                                        {
+                                            "question": "What is the capital of Japan?",
+                                            "correctAnswer": "Tokyo"
+                                        },
+                                        {
+                                            "question": "Who wrote 'Romeo and Juliet'?",
+                                            "correctAnswer": "William Shakespeare"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "categoryName": "Multiple Choice",
+                                    "questions": [
+                                        {
+                                            "question": "What is the chemical symbol for oxygen?",
+                                            "options": [
+                                                "O2",
+                                                "O3",
+                                                "O",
+                                                "O4"
+                                            ],
+                                            "correctAnswer": "O"
+                                        },
+                                        {
+                                            "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+                                            "options": [
+                                                "Oxygen",
+                                                "Carbon dioxide",
+                                                "Nitrogen",
+                                                "Hydrogen"
+                                            ],
+                                            "correctAnswer": "Carbon dioxide"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "chapter": 3,
+                            "categories": [
+                                {
+                                    "categoryName": "Fill in the Blanks",
+                                    "questions": [
+                                        {
+                                            "question": "The __________ is the largest organ of the human body.",
+                                            "correctAnswer": "skin"
+                                        },
+                                        {
+                                            "question": "Water boils at __________ degrees Celsius.",
+                                            "correctAnswer": "100"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "categoryName": "Answer the Following",
+                                    "questions": [
+                                        {
+                                            "question": "What are the colors of the rainbow in order?",
+                                            "correctAnswer": "Red, Orange, Yellow, Green, Blue, Indigo, Violet"
+                                        },
+                                        {
+                                            "question": "Who wrote 'To Kill a Mockingbird'?",
+                                            "correctAnswer": "Harper Lee"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "categoryName": "Multiple Choice",
+                                    "questions": [
+                                        {
+                                            "question": "What is the chemical symbol for gold?",
+                                            "options": [
+                                                "Au",
+                                                "Ag",
+                                                "Fe",
+                                                "Hg"
+                                            ],
+                                            "correctAnswer": "Au"
+                                        },
+                                        {
+                                            "question": "Which planet is known as the 'Morning Star'?",
+                                            "options": [
+                                                "Mars",
+                                                "Venus",
+                                                "Jupiter",
+                                                "Saturn"
+                                            ],
+                                            "correctAnswer": "Venus"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "chapter": 4,
+                            "categories": [
+                                {
+                                    "categoryName": "Fill in the Blanks",
+                                    "questions": [
+                                        {
+                                            "question": "The process of plants making their own food is called __________.",
+                                            "correctAnswer": "photosynthesis"
+                                        },
+                                        {
+                                            "question": "A __________ is a large body of water surrounded by land.",
+                                            "correctAnswer": "lake"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "categoryName": "Answer the Following",
+                                    "questions": [
+                                        {
+                                            "question": "Who is known as the 'Father of the Nation' in India?",
+                                            "correctAnswer": "Mahatma Gandhi"
+                                        },
+                                        {
+                                            "question": "What is the tallest mountain in the world?",
+                                            "correctAnswer": "Mount Everest"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "categoryName": "Multiple Choice",
+                                    "questions": [
+                                        {
+                                            "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+                                            "options": [
+                                                "Oxygen",
+                                                "Carbon dioxide",
+                                                "Nitrogen",
+                                                "Hydrogen"
+                                            ],
+                                            "correctAnswer": "Carbon dioxide"
+                                        },
+                                        {
+                                            "question": "What is the chemical symbol for oxygen?",
+                                            "options": [
+                                                "O2",
+                                                "O3",
+                                                "O",
+                                                "O4"
+                                            ],
+                                            "correctAnswer": "O"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "chapter": 5,
+                            "categories": [
+                                {
+                                    "categoryName": "Fill in the Blanks",
+                                    "questions": [
+                                        {
+                                            "question": "The __________ is the largest planet in our solar system.",
+                                            "correctAnswer": "Jupiter"
+                                        },
+                                        {
+                                            "question": "We breathe in __________ and breathe out __________.",
+                                            "correctAnswer": "oxygen, carbon dioxide"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "categoryName": "Answer the Following",
+                                    "questions": [
+                                        {
+                                            "question": "Who wrote 'Harry Potter and the Sorcerer's Stone'?",
+                                            "correctAnswer": "J.K. Rowling"
+                                        },
+                                        {
+                                            "question": "What is the largest mammal in the world?",
+                                            "correctAnswer": "blue whale"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "categoryName": "Multiple Choice",
+                                    "questions": [
+                                        {
+                                            "question": "What is the capital of France?",
+                                            "options": [
+                                                "Paris",
+                                                "London",
+                                                "Berlin",
+                                                "Madrid"
+                                            ],
+                                            "correctAnswer": "Paris"
+                                        },
+                                        {
+                                            "question": "Which gas makes up the majority of Earth's atmosphere?",
+                                            "options": [
+                                                "Oxygen",
+                                                "Carbon dioxide",
+                                                "Nitrogen",
+                                                "Hydrogen"
+                                            ],
+                                            "correctAnswer": "Nitrogen"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "chapter": 6,
+                            "categories": [
+                                {
+                                    "categoryName": "Fill in the Blanks",
+                                    "questions": [
+                                        {
+                                            "question": "The __________ is the largest land animal on Earth.",
+                                            "correctAnswer": "elephant"
+                                        },
+                                        {
+                                            "question": "A group of __________ is called a 'herd'.",
+                                            "correctAnswer": "cows"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "categoryName": "Answer the Following",
+                                    "questions": [
+                                        {
+                                            "question": "Who is known as the 'Father of Modern Physics'?",
+                                            "correctAnswer": "Albert Einstein"
+                                        },
+                                        {
+                                            "question": "What is the longest river in the world?",
+                                            "correctAnswer": "Nile"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "categoryName": "Multiple Choice",
+                                    "questions": [
+                                        {
+                                            "question": "What is the capital of Australia?",
+                                            "options": [
+                                                "Sydney",
+                                                "Melbourne",
+                                                "Canberra",
+                                                "Brisbane"
+                                            ],
+                                            "correctAnswer": "Canberra"
+                                        },
+                                        {
+                                            "question": "Which gas do humans exhale during respiration?",
+                                            "options": [
+                                                "Oxygen",
+                                                "Carbon dioxide",
+                                                "Nitrogen",
+                                                "Hydrogen"
+                                            ],
+                                            "correctAnswer": "Carbon dioxide"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "maths",
+            "classes": [
+                {
+                    "class": 1,
+                    "chapters": [
+                        {
+                            "chapter": 1,
+                            "categories": [
+                                {
+                                    "categoryName": "Fill in the Blanks",
+                                    "questions": [
+                                        {
+                                            "question": "5 + 3 = __________.",
+                                            "correctAnswer": "8"
+                                        },
+                                        {
+                                            "question": "9 - 2 = __________.",
+                                            "correctAnswer": "7"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "categoryName": "Answer the Following",
+                                    "questions": [
+                                        {
+                                            "question": "What is the result of multiplying 4 by 6?",
+                                            "correctAnswer": "24"
+                                        },
+                                        {
+                                            "question": "How many sides does a triangle have?",
+                                            "correctAnswer": "3"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "categoryName": "Multiple Choice",
+                                    "questions": [
+                                        {
+                                            "question": "What is the shape of a circle?",
+                                            "options": [
+                                                "Square",
+                                                "Triangle",
+                                                "Rectangle",
+                                                "Round"
+                                            ],
+                                            "correctAnswer": "Round"
+                                        },
+                                        {
+                                            "question": "How many centimeters are in a meter?",
+                                            "options": [
+                                                "100",
+                                                "10",
+                                                "1000",
+                                                "50"
+                                            ],
+                                            "correctAnswer": "100"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "chapter": 2,
+                            "categories": [
+                                {
+                                    "categoryName": "Fill in the Blanks",
+                                    "questions": [
+                                        {
+                                            "question": "7 + 2 = __________.",
+                                            "correctAnswer": "9"
+                                        },
+                                        {
+                                            "question": "4 - 1 = __________.",
+                                            "correctAnswer": "3"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "categoryName": "Answer the Following",
+                                    "questions": [
+                                        {
+                                            "question": "What is the result of multiplying 8 by 5?",
+                                            "correctAnswer": "40"
+                                        },
+                                        {
+                                            "question": "How many sides does a square have?",
+                                            "correctAnswer": "4"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "categoryName": "Multiple Choice",
+                                    "questions": [
+                                        {
+                                            "question": "What is the shape of a rectangle?",
+                                            "options": [
+                                                "Square",
+                                                "Triangle",
+                                                "Round",
+                                                "Rectangular"
+                                            ],
+                                            "correctAnswer": "Rectangular"
+                                        },
+                                        {
+                                            "question": "How many millimeters are in a centimeter?",
+                                            "options": [
+                                                "10",
+                                                "100",
+                                                "1000",
+                                                "50"
+                                            ],
+                                            "correctAnswer": "10"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "chapter": 3,
+                            "categories": [
+                                {
+                                    "categoryName": "Fill in the Blanks",
+                                    "questions": [
+                                        {
+                                            "question": "6 + 4 = __________.",
+                                            "correctAnswer": "10"
+                                        },
+                                        {
+                                            "question": "8 - 3 = __________.",
+                                            "correctAnswer": "5"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "categoryName": "Answer the Following",
+                                    "questions": [
+                                        {
+                                            "question": "What is the result of multiplying 7 by 2?",
+                                            "correctAnswer": "14"
+                                        },
+                                        {
+                                            "question": "How many sides does a pentagon have?",
+                                            "correctAnswer": "5"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "categoryName": "Multiple Choice",
+                                    "questions": [
+                                        {
+                                            "question": "What is the shape of a triangle?",
+                                            "options": [
+                                                "Square",
+                                                "Round",
+                                                "Rectangular",
+                                                "Triangular"
+                                            ],
+                                            "correctAnswer": "Triangular"
+                                        },
+                                        {
+                                            "question": "How many kilometers are in a mile?",
+                                            "options": [
+                                                "1",
+                                                "5",
+                                                "10",
+                                                "1.60934"
+                                            ],
+                                            "correctAnswer": "1.60934"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
