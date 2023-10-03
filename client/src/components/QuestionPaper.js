@@ -1,4 +1,3 @@
-
 import React, { useEffect, useState } from 'react';
 import questionsData from '../data/questions.json'; // Adjust the path as needed
 import CustomQuestionPaper from './CustomQuestionPaper';
@@ -125,12 +124,10 @@ const QuestionPaper = ({ selectedClass, selectedSubject, selectedChapter }) => {
                         </>
                     )}
                 </div>
-                <CustomQuestionPaper selectedQuestions={uniqueSelectedQuestions} />
+                <CustomQuestionPaper selectedQuestions={uniqueSelectedQuestions}  setSelectedQuestions ={setSelectedQuestions } />
             </div>
         </>
     );
 };
 
 export default QuestionPaper;
-
-
